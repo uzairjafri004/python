@@ -1,2 +1,3 @@
 # python
-this is python repository.
+this is my python repository.
+author - uzair jafri
